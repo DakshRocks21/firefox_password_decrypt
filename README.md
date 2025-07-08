@@ -1,2 +1,4 @@
 # firefox_password_decrypt
-works on Windows Firefox (without master password)
+Smaller and concise version of https://github.com/unode/firefox_decrypt/blob/main/firefox_decrypt.py.
+
+Works on windows only
